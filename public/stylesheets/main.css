@@ -41,3 +41,7 @@ p{
 .item{
 	margin: 0 20px;
 }
+
+p.caveat{
+	font-style: italic;
+}
