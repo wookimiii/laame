@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 9ac255ee952587cb52ba06a8bde23fe4e5bf7e43 andrew kim <akim@attinteractive.com> 1292365912 -0800	commit (initial): Blank rails app
+9ac255ee952587cb52ba06a8bde23fe4e5bf7e43 b9264d4b6ccae1e75b82d4594b26c6d009f511cb andrew kim <akim@attinteractive.com> 1292366540 -0800	commit: lame index
+b9264d4b6ccae1e75b82d4594b26c6d009f511cb 398703a17cd2e6b0bb38f82fa7ab23f240a692e7 andrew kim <akim@attinteractive.com> 1292377857 -0800	commit: jokes
+398703a17cd2e6b0bb38f82fa7ab23f240a692e7 b175d195937532212ff8394577bc7cb359dbc926 andrew kim <akim@attinteractive.com> 1292377914 -0800	commit: dedication
+b175d195937532212ff8394577bc7cb359dbc926 199d11ddc7ef2e5bb7e7b5ab3055e48aac832be3 andrew kim <akim@attinteractive.com> 1292396342 -0800	commit: Adding controller and starting index page
+199d11ddc7ef2e5bb7e7b5ab3055e48aac832be3 4582d7b69780abc724495da147afb666ffd4dd2e andrew kim <akim@attinteractive.com> 1292396417 -0800	commit: Adding Gemfile for bundler
+4582d7b69780abc724495da147afb666ffd4dd2e 343d5774ec5cf4003388b633aecb277df22ae931 andrew kim <akim@attinteractive.com> 1292396514 -0800	commit: Adding Gemfile for bundler
+343d5774ec5cf4003388b633aecb277df22ae931 a3460aec98d749e075836c9c907cb319657bd739 andrew kim <akim@attinteractive.com> 1292397461 -0800	commit: little bit of styling
+a3460aec98d749e075836c9c907cb319657bd739 26ad0e793da8dfb41a1350437cf551a7997b95c7 andrew kim <akim@attinteractive.com> 1292482418 -0800	commit: 2010-12-16
+26ad0e793da8dfb41a1350437cf551a7997b95c7 e12b82e79c3858a257c7a9526a02192a188b948e andrew kim <akim@attinteractive.com> 1292603222 -0800	commit: 12172010
+e12b82e79c3858a257c7a9526a02192a188b948e 4561b831815df8ce62284d2073c03b1f88486ee8 andrew kim <akim@attinteractive.com> 1292603446 -0800	commit: 12172010
+4561b831815df8ce62284d2073c03b1f88486ee8 fc5fcf2dba4a41cb14decad2d510bfdfab4e8052 andrew kim <akim@attinteractive.com> 1292603640 -0800	commit: 12172010

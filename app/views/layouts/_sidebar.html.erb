@@ -1,0 +1,21 @@
+<div class="sidebar">
+	<div class="block-content" id="intro">
+		<h2><%= link_to "Laame!", root_path %></h2>
+		<p>
+		  My name is Andrew Kim and this is my site. Yeah, I know, its lame. 
+		</p>
+	</div><!--block-content-->
+	
+	<div class="block-content"  id="search">
+		<%= link_to "Blogcast Archive", archives_path %>
+		
+		<form method="get" action="http://www.google.com/search">
+			<fieldset>
+				<input name="q" type="text"/>
+				<input name="sitesearch" value="http://laa.me" type="hidden"/>
+			</fieldset>
+		</form>
+	</div><!--block-content-->
+	
+	<p class="subscribe"><%=link_to "Subscribe to my blog", "posts.rss"%></p>
+</div><!--sidebar-->
